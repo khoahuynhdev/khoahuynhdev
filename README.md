@@ -1,4 +1,4 @@
-### Hi there 👋, i'm Khoa Huynh from VN
+### Hi there 👋, i'm Khoa Huỳnh from VN
 
 <!--
 **khoahuynhdev/khoahuynhdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
