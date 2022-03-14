@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 # 📫 How to reach me:
 
 - Twitter: [@khoa0319](https://twitter.com/khoa0319)
+<!--
 - Dev.to: [khoa0319](https://dev.to/khoa0319)
 - Medium Blog: [@khoahd](https://medium.com/@khoahd)
+-->
 - Reddit: [u/khoa_hd96](https://www.reddit.com/user/khoa_hd96)
 
 <!--
