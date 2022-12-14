@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/khoahuynhdev) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=khoahuynhdev.visitor-badge)](https://github.com/khoahuynhdev) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/khoahuynhdev)
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=khoahuynhdev&show_icons=true&count_private=true&theme=vue" alt="khoahuynhdev" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khoahuynhdev&show_icons=true&count_private=true&theme=dracula" alt="khoahuynhdev" />
 </div>
 
 
