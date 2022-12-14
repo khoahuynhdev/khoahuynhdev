@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khoahuynhdev&langs_count=10&hide=html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khoahuynhdev&langs_count=20&hide=html,css&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
