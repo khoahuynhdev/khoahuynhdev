@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 📫 How to reach me:
-
-- Twitter: [@khoahd96](https://twitter.com/khoahd96)
 <!--
 - Dev.to: [khoa0319](https://dev.to/khoa0319)
 - Medium Blog: [@khoahd](https://medium.com/@khoahd)
