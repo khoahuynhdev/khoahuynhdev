@@ -29,7 +29,10 @@ Here are some ideas to get you started:
 -->
 
 ![Top commit lang](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khoahuynhdev&theme=dracula)
+
 ![Top commit lang](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khoahuynhdev&theme=dracula)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/khoahd?theme=nord&font=Zen%20Kaku%20Gothic%20Antique&ext=heatmap)
 <!--
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khoahuynhdev&langs_count=20&hide=html,css&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
